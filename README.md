@@ -1,51 +1,47 @@
-<!-- Profile README lives at: github.com/<your-username>/<your-username> -->
-
 # Hi, I’m Jinho 👋
-**EE @ UofT | FPGA & Embedded | Backend Systems | Product-minded builder**
+**EE @ UofT | FPGA & Embedded | Control Systems | Full-Stack Web Development**
 
 I design and ship systems end-to-end — from **schematics/Verilog** to **validated PCBs**, and from **APIs** to **production metrics**.
 
 ---
 
 ## 🚀 Featured Projects
-### Project Name A
-> One-liner value prop.  
-**Tech:** `Verilog` · `Quartus` · `ModelSim`  
-**Proof:** 100 MHz timing closure · <1 ns slack · 8% LUT / 3% BRAM  
+### AI-Powered Roommate Matching Platform
+> SBERT-based roommate matching with real-time messaging—built as a practical, production-minded web app.
+**Tech:** `Node.js` · `Express` · `MySQL` · `SBERT`
+**Impact:** 
 <img src="assets/projA-diagram.png" alt="Block diagram of Project A" width="420" />
 
-### Project Name B
-> One-liner value prop.  
-**Tech:** `Node.js` · `Express` · `MySQL` · `SBERT`  
-**Impact:** 1.3M MAU analyzed · 120 ms P95 latency · +34% promo conversion  
+### Subsystem B - Digital Demodulator
+> FPGA demodulator that takes I/Q signals around a low-IF, performs AM/SSB detection, and streams line-level audio over I²S.
+**Tech:** `Verilog/SystemVerilog` · `Quartus` · `ModelSim` 
+**Impact:** 
+<img src="assets/projB-ui.png" alt="ShareSpace UI" width="420" />
+
+### Dots & Boxes
+> Classic Dots & Boxes implemented in C on the DE1-SoC.
+**Tech:** `RISC-V Assembly`
+**Impact:**  
 <img src="assets/projB-ui.png" alt="ShareSpace UI" width="420" />
 
 ---
 
 ## 🧰 Tech Stack
-**Hardware Design:** `Verilog/SystemVerilog`, `Quartus`, `ModelSim`, `LTspice`  
-**Embedded/Firmware:** `C/C++`, `STM32`, `FreeRTOS`  
-**Backend/Web:** `Node.js`, `Express`, `MySQL`, `Flask`, `Socket.IO`  
-**Data/ML:** `Python`, `scikit-learn`, `LightFM`, `SBERT`  
-**Tools:** `Git`, `Altium`, `MATLAB`, `Linux`
-
----
-
-## 📊 Highlights
-- X custom PCBs (RF / analog / digital), fully validated on bench  
-- Y FPGA projects (audio DSP, VGA UI, …)  
-- Z production services (APIs, messaging, analytics)
+**Hardware Design:** `Verilog/SystemVerilog`, `RISC-V Assembly`, `Quartus Prime`, `ModelSim`  
+**Embedded/Firmware:** `C/C++`, `Python`, `Linux`
+**Full-Stack Web Development:** `HTML/CSS/JS`, `Node.js`, `Express`, `MySQL`, `Flask`, `Socket.IO`  
+**Tools:** `Git`, `Altium`, `LTspice`, `MATLAB`, `PCB Design & Soldering`
 
 ---
 
 ## 🧭 Leadership & Outreach
+- Founder, **ShareSpace** — AI roommate matching platform with SBERT similarity + real-time messaging
 - Director of Events, **KESA** — led N events for ~M attendees; built L-person team  
 - Business Intern, **NAVER Z (ZEPETO)** — ran gift card promo (bonus ZEM up to 34%); analyzed US MAU/DAU; partner ops with BHN/Givex/InComm  
-- Founder, **ShareSpace** — AI roommate matching with SBERT similarity + real-time messaging
 
 ---
 
 ## 🔗 Let’s Connect
-[LinkedIn](https://…) · [Portfolio](https://…) · [Email](mailto:you@domain.com)
+[LinkedIn]([https://…](https://linkedin.com/in/jinho-choi-junejinho)) · [Email](mailto:jinho.choi0620@gmail.com)
 
 > “Short, punchy personal motto.”
