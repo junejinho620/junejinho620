@@ -36,7 +36,7 @@ I build reliable systems that bridge theory and hardware from digital logic and 
 
 ## 🧰 Tech Stack
 **Hardware Design:** `Verilog/SystemVerilog`, `RISC-V Assembly`, `Quartus Prime`, `ModelSim`   
-**Embedded/Control:** `C/C++`, `Python`, `Linux`  
+**Embedded/Control:** `C/C++`, `Python`, `Linux/Unix`  
 **Full-Stack Web Development:** `HTML/CSS/JS`, `Node.js`, `Express`, `MySQL`, `Flask`, `Socket.IO`    
 **Tools:** `Git`, `Altium`, `LTspice`, `MATLAB`, `PCB Design & Soldering`  
 
@@ -48,12 +48,8 @@ I build reliable systems that bridge theory and hardware from digital logic and 
 
 - Director of Events, **KESA**
   >  Designed and executed a diverse event portfolio.  
-  
-- Business Intern, **NAVER Z (ZEPETO)**
-  > Supported data-driven CRM campaigns to boost web payments and engagement, conducted user surveys and international translations, and contributed to payment method research, localization, and promotional assets.
-
 ---
 
 ## 🔗 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/jinho-choi-junejinho)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/junejinho)
  · [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=flat-square)](mailto:jinho.choi0620@gmail.com)   
