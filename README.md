@@ -1,4 +1,4 @@
-# Hi, I’m Jinho 👋
+# Hi, I’m Jaden 👋
 **EE @ UofT | Semiconductors · Computer Hardware · Control Systems**
 
 I build reliable systems that bridge theory and hardware from digital logic and DSP on FPGAs to robust control implementations. Alongside my core engineering work, I explore web platforms and AI as side projects to prototype ideas and deliver practical tools.
